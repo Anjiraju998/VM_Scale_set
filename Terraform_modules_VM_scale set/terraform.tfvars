@@ -1,0 +1,15 @@
+
+cidr_block = "11.168.0.0/16"
+ip_address = "11.168.2.0/24"
+ipconfig = "anjiip"
+loc = "eastus"
+nic = "anji_nic"
+resource_group = "anjiRG587"
+rights = "ReadWrite"
+storage = "Standard_LRS"
+sub = "anjisubnet"
+user_password = "webanji@2022"
+vm = "anjivm1"
+vmuser_name = "anjiweb1"
+vnet = "Anji_Vnet"
+noi = 3
